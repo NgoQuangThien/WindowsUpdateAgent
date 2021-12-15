@@ -1,0 +1,181 @@
+﻿Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Creating EventLog source WindowsUpdateAgent in log Application...
+Rolling back assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Restoring event log to previous state for source WindowsUpdateAgent.
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\bin\Debug\WindowsUpdateAgent.InstallLog
+Removing EventLog source WindowsUpdateAgent.
+Service WindowsUpdateAgent is being removed from the system...
+Service WindowsUpdateAgent was successfully removed from the system.
