@@ -2,7 +2,7 @@
 
 ##	Yêu cầu
 ```
-	Server có thể kết nối đến dịch vụ Windows Update của Microsoft
+	Server đã bật dịch vụ và có thể kết nối đến dịch vụ Windows Update của Microsoft
 ```
 
 ##	Cài đặt
@@ -11,7 +11,7 @@
 ```
 
 ```
-	Từ thu mục WindowsUpdateAgent
+	Từ thư mục WindowsUpdateAgent
 	cd "WindowsUpdateAgent_Net4.5\bin\Debug"
 ```
 
@@ -24,4 +24,9 @@
 
 ```
 	C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe /u WindowsUpdateAgent.exe
+```
+
+```
+	Lưu ý: Cần kiểm tra đường dẫn C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe trên server
+	trước khi thực thi câu lệnh để lấy đường dẫn đúng của file "InstallUtil.exe"
 ```
