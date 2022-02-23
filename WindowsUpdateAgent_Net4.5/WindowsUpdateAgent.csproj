@@ -72,6 +72,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
     <COMReference Include="WUApiLib">
       <Guid>{B596CC9F-56E5-419E-A622-E01BB457431E}</Guid>
       <VersionMajor>2</VersionMajor>

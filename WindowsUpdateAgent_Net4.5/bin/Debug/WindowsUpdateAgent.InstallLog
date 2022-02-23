@@ -179,3 +179,16 @@ Affected parameters are:
 Removing EventLog source WindowsUpdateAgent.
 Service WindowsUpdateAgent is being removed from the system...
 Service WindowsUpdateAgent was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.InstallLog
+Installing service WindowsUpdateAgent...
+Service WindowsUpdateAgent has been successfully installed.
+Creating EventLog source WindowsUpdateAgent in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.exe
+   logfile = C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.InstallLog

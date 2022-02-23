@@ -1,16 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
-using System.Linq;
+using System.IO;
 using System.ServiceProcess;
-using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 using System.Timers;
 using WUApiLib;
-using System.IO;
-using System.Threading;
 
 namespace WindowsUpdateAgent
 {
@@ -21,8 +15,24 @@ namespace WindowsUpdateAgent
         {
             InitializeComponent();
         }
+        public static bool time_to_run()
+        {
+            List<string> run_time = new List<string>();
+            run_time.Add("06");
+            run_time.Add("12");
+            string now = DateTime.Now.ToString("HH");
+            foreach (string time in run_time)
+            {
+                if (now == time)
+                    return true;
+            }
+            return false;
+        }
         public static void main_processor()
         {
+            if (time_to_run() == false)
+                return;
+
             UpdateSession uSession = new UpdateSession();
             IUpdateSearcher uSearcher = uSession.CreateUpdateSearcher();
             uSearcher.Online = true;
@@ -44,7 +54,7 @@ namespace WindowsUpdateAgent
         protected override void OnStart(string[] args)
         {
             System.Timers.Timer timer = new System.Timers.Timer();
-            timer.Interval = 43200000; // 43200000 milliseconds = 12 hours
+            timer.Interval = 43200000; // 60000 milliseconds
             timer.Elapsed += new ElapsedEventHandler(this.OnTimer);
             timer.Start();
 
@@ -53,7 +63,8 @@ namespace WindowsUpdateAgent
                 System.IO.Directory.CreateDirectory(logDirectory);
             }
 
-            Thread t = new Thread(() => {
+            Thread t = new Thread(() =>
+            {
                 main_processor();
             });
             t.Start();

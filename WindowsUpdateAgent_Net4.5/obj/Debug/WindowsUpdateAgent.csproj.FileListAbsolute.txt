@@ -9,3 +9,14 @@ C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\obj\Debug\WindowsUp
 C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\obj\Debug\WindowsUpdateAgent.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\obj\Debug\WindowsUpdateAgent.exe
 C:\Users\Administrator\Desktop\WUA_Net4.5\WindowsUpdateAgent\obj\Debug\WindowsUpdateAgent.pdb
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.exe.config
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.exe
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\bin\Debug\WindowsUpdateAgent.pdb
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\WindowsUpdateAgent.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\WindowsUpdateAgent.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\WindowsUpdateAgent.WindowsUpdateAgent.resources
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\WindowsUpdateAgent.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\WindowsUpdateAgent.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\WindowsUpdateAgent.exe
+C:\Users\Administrator\Desktop\WUA\WindowsUpdateAgent-main\WindowsUpdateAgent_Net4.5\obj\Debug\WindowsUpdateAgent.pdb
