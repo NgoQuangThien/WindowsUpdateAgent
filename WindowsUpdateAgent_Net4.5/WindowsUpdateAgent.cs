@@ -54,7 +54,7 @@ namespace WindowsUpdateAgent
         protected override void OnStart(string[] args)
         {
             System.Timers.Timer timer = new System.Timers.Timer();
-            timer.Interval = 43200000; // 60000 milliseconds
+            timer.Interval = 3600000; // 1 hour
             timer.Elapsed += new ElapsedEventHandler(this.OnTimer);
             timer.Start();
 
